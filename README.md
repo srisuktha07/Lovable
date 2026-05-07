@@ -1,2 +1,3 @@
 # Lovable
-Describes Versions of Me
+Here Are The New Updations Made
+Under The Python Project. 
